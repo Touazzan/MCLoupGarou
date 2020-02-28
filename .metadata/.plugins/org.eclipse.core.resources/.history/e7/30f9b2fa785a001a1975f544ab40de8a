@@ -1,0 +1,8 @@
+package ted.loupgarou;
+
+import net.minecraftforge.fml.common.Mod;
+
+@Mod("loupgarou")
+public class LoupGarou {
+
+}

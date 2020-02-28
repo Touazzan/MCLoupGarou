@@ -1,0 +1,20 @@
+package ted.loupgarou;
+
+import net.minecraftforge.common.MinecraftForge;
+import net.minecraftforge.fml.common.Mod;
+
+@Mod("loupgarou")
+public class LoupGarou {
+
+	public LoupGarou() {
+		MinecraftForge.EVENT_BUS.register(this);
+	}
+	
+	private void setup(final FMLCommonSetupEvent event) {
+		
+	}
+	
+	private void clientRegistries(final FMLCommonSetupEvent event) {
+		
+	}
+}

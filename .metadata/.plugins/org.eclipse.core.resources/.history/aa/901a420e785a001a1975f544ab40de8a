@@ -1,0 +1,6 @@
+package com.ted.loupgarou;
+
+@Mod()
+public class Main {
+
+}

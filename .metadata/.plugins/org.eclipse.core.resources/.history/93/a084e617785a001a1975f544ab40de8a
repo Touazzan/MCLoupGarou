@@ -1,0 +1,8 @@
+package com.ted.loupgarou;
+
+import com.ted.loupgarou.util.Reference;
+
+@Mod(modid = Reference.MOD_ID)
+public class Main {
+
+}

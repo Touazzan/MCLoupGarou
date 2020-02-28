@@ -1,0 +1,7 @@
+package com.ted.loupgarou.util;
+
+public class Reference {
+
+	public static final String MOD_ID = "lg";
+	public static final String NAME = "Loup-Garou"
+}
