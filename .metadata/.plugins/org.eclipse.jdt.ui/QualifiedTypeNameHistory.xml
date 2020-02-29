@@ -1,2 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<qualifiedTypeNameHistroy/>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.ted.loupgarou.util.Reference"/>
+    <fullyQualifiedTypeName name="net.minecraftforge.fml.common.Mod"/>
+    <fullyQualifiedTypeName name="net.minecraftforge.common.MinecraftForge"/>
+    <fullyQualifiedTypeName name="net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext"/>
+    <fullyQualifiedTypeName name="ted.loupgarou.LoupGarou"/>
+    <fullyQualifiedTypeName name="org.apache.logging.log4j.LogManager"/>
+    <fullyQualifiedTypeName name="org.apache.logging.log4j.Logger"/>
+</qualifiedTypeNameHistroy>
